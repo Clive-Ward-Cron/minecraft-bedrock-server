@@ -32,7 +32,8 @@
     "player-movement-distance-threshold": 0.3,
     "player-movement-duration-threshold-in-ms": 500,
     "correct-player-movement": false,
-    "level-seed": ""
+    "level-seed": "",
+    "server-authoritative-block-breaking": false
   },
   "ui": {
     "enabled": false,
