@@ -31,7 +31,8 @@
     "player-movement-score-threshold": 20,
     "player-movement-distance-threshold": 0.3,
     "player-movement-duration-threshold-in-ms": 500,
-    "correct-player-movement": false
+    "correct-player-movement": false,
+    "level-seed": ""
   },
   "ui": {
     "enabled": false,
